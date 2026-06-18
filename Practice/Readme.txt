@@ -1,4 +1,4 @@
-Simple Linear Regression practice with following steps:
+Practice with following steps:
 1. Read data set
 2. Define input and output variable
 3. Split training and test data set
